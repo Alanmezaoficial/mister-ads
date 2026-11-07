@@ -24,7 +24,7 @@ claude plugin install mister-ads@alanmeza-mister-ads
 claude plugin list
 ```
 
-Para el ZIP extraído, conserva la carpeta en una ubicación persistente, registra su catálogo local con claude plugin marketplace add <ruta> e instala mister-ads@alanmeza-mister-ads. No ejecutes los instaladores del proyecto original.
+Para el ZIP extraído, conserva la carpeta en una ubicación persistente, registra su catálogo local con `claude plugin marketplace add "RUTA_DE_LA_CARPETA_EXTRAIDA"` e instala `mister-ads@alanmeza-mister-ads`. Sustituye la ruta de ejemplo por la carpeta que contiene `.claude-plugin`. No ejecutes los instaladores del proyecto original.
 
 Abre una sesión nueva y comprueba que aparece la skill/plugin. Prueba `/mister-ads:mister-ads` o selecciónala desde el host. La aparición y una conversación real son comprobaciones distintas de copiar archivos.
 
