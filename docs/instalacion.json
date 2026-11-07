@@ -1,0 +1,32 @@
+{
+  "id": "mister-ads",
+  "name": "Mister ADS",
+  "version": "1.0.0",
+  "repository": "https://github.com/Alanmezaoficial/mister-ads",
+  "editions": {
+    "codex": {
+      "label": "Codex",
+      "guide": "https://github.com/Alanmezaoficial/mister-ads/blob/main/docs/guia-codex.md",
+      "skill": "https://github.com/Alanmezaoficial/mister-ads/tree/main/codex/skills/mister-ads",
+      "zip": "mister-ads-codex-1.0.0.zip",
+      "linkPrompt": "Instala la edición Codex de Mister ADS para mi usuario.\n\nRepositorio: https://github.com/Alanmezaoficial/mister-ads\nGuía: https://github.com/Alanmezaoficial/mister-ads/blob/main/docs/guia-codex.md\n\nLee la guía. Usa skill-installer si está disponible, con la ruta codex/skills/mister-ads y la ubicación personal de skills de esta versión de Codex. Conserva el paquete completo, engine, scripts, referencias, assets, LICENSE y NOTICE. No lo sustituyas por un resumen. No sobrescribas una instalación existente. Verifica los archivos y explica cómo comprobar la activación en una sesión nueva. No conectes cuentas, instales dependencias globales, ejecutes campañas ni crees registros reales por instalarla. Si el host no admite archivos o ejecución, indica qué falta sin afirmar instalación.",
+      "zipPrompt": "Instala la edición Codex del ZIP mister-ads-codex-1.0.0.zip que adjunto o cuya ruta te proporciono. Lee INSTALAR.md. Guía: https://github.com/Alanmezaoficial/mister-ads/blob/main/docs/guia-codex.md\n\nExtrae de forma segura y conserva todo el paquete, incluidos recursos de engine, LICENSE y NOTICE. Copia la carpeta mister-ads a la ubicación personal de skills que detecte Codex. No sobrescribas versiones existentes. Comprueba integridad y explica cómo verificar una sesión nueva. No conectes MUSE ni cuentas publicitarias durante la instalación.",
+      "manualLanguage": "powershell",
+      "manualLabel": "Windows · PowerShell",
+      "manualHint": "Con Git y Python 3.11+ disponibles. Si tu Codex usa otra carpeta de skills, ajusta --skills-dir.",
+      "manual": "git clone https://github.com/Alanmezaoficial/mister-ads.git\ncd mister-ads\npython scripts/install.py --skills-dir \"$env:USERPROFILE/.agents/skills\""
+    },
+    "claude": {
+      "label": "Claude Code",
+      "guide": "https://github.com/Alanmezaoficial/mister-ads/blob/main/docs/guia-claude.md",
+      "skill": "https://github.com/Alanmezaoficial/mister-ads/tree/main/claude/skills/mister-ads",
+      "zip": "mister-ads-claude-1.0.0.zip",
+      "linkPrompt": "Instala la edición Claude Code de Mister ADS para mi usuario.\n\nRepositorio: https://github.com/Alanmezaoficial/mister-ads\nGuía: https://github.com/Alanmezaoficial/mister-ads/blob/main/docs/guia-claude.md\n\nLee la guía. Registra el catálogo Alanmezaoficial/mister-ads e instala mister-ads@alanmeza-mister-ads con los comandos compatibles de Claude Code. Conserva el paquete completo, engine, scripts, referencias, assets, LICENSE y NOTICE. No lo sustituyas por un resumen. No sobrescribas una instalación existente. Verifica los archivos y explica cómo comprobar la activación en una sesión nueva. No conectes cuentas, instales dependencias globales, ejecutes campañas ni crees registros reales por instalarla. Si el host no admite archivos o ejecución, indica qué falta sin afirmar instalación.",
+      "zipPrompt": "Instala la edición Claude Code del ZIP mister-ads-claude-1.0.0.zip que adjunto o cuya ruta te proporciono. Lee INSTALAR.md. Guía: https://github.com/Alanmezaoficial/mister-ads/blob/main/docs/guia-claude.md\n\nExtrae de forma segura y conserva todo el paquete, incluidos recursos de engine, LICENSE y NOTICE. Conserva la carpeta en una ubicación persistente, registra su catálogo local y añade el plugin mister-ads@alanmeza-mister-ads. No sobrescribas versiones existentes. Comprueba integridad y explica cómo verificar una sesión nueva. No conectes MUSE ni cuentas publicitarias durante la instalación.",
+      "manualLanguage": "text",
+      "manualLabel": "Terminal · Claude Code",
+      "manualHint": "Con Claude Code instalado y autenticado. Python 3.11+ se necesita al registrar o importar.",
+      "manual": "claude plugin marketplace add Alanmezaoficial/mister-ads\nclaude plugin install mister-ads@alanmeza-mister-ads\nclaude plugin list"
+    }
+  }
+}

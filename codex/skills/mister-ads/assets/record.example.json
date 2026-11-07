@@ -1,0 +1,23 @@
+{
+  "schema_version": "mister-ads/1",
+  "business_id": "demo",
+  "synthetic": true,
+  "opportunities": [
+    {
+      "opportunity_id": "O-0001",
+      "entry_date": "2026-11-06",
+      "status": "consulta",
+      "status_date": "2026-11-06",
+      "agreed_value_minor": null,
+      "currency": "MXN",
+      "minor_unit": 2,
+      "platform": null,
+      "account_id": null,
+      "campaign_id": null,
+      "ad_id": null,
+      "association_method": "origen_desconocido",
+      "source": "ejemplo_ficticio"
+    }
+  ],
+  "payments": []
+}

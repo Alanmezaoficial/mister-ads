@@ -1,0 +1,7 @@
+{
+  "business_id": "demo",
+  "currency": "MXN",
+  "minor_unit": 2,
+  "timezone": "America/Tijuana",
+  "synthetic": true
+}

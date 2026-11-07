@@ -1,0 +1,13 @@
+{
+  "name": "alanmeza-mister-ads",
+  "owner": {
+    "name": "Alanmeza.ai"
+  },
+  "plugins": [
+    {
+      "name": "mister-ads",
+      "source": "./claude",
+      "description": "Anuncios y registro comercial con intercambio manual de MUSE."
+    }
+  ]
+}

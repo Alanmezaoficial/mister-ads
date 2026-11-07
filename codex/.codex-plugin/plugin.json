@@ -1,0 +1,10 @@
+{
+  "name": "mister-ads",
+  "version": "1.0.0",
+  "description": "Anuncios y registro comercial con intercambio manual de MUSE.",
+  "author": {
+    "name": "Alanmeza.ai"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}

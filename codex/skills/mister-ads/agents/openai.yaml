@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mister ADS"
+  short_description: "Anuncios, registro comercial y reportes de MUSE"
+  default_prompt: "Usa $mister-ads para revisar mis anuncios y empezar mi registro comercial."
