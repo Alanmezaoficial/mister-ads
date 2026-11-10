@@ -54,7 +54,7 @@ La versión 1.0 intercambia archivos manualmente. No conecta automáticamente tu
 
 ## Qué puedes pedir además
 
-Auditar Meta, Google o TikTok; revisar anuncios, landing y presupuesto; planear campañas; preparar briefs y pruebas; revisar próximos pasos. Se conservan los recursos de Claude Ads. Las imágenes, los PDF y las conexiones externas dependen de las herramientas y requisitos disponibles: la guía no promete accesos que no existen.
+Auditar Meta, Google o TikTok; revisar anuncios, landing y presupuesto; planear campañas; preparar briefs y pruebas; revisar próximos pasos. Las imágenes, los PDF y las conexiones externas dependen de las herramientas y requisitos disponibles: la guía no promete accesos que no existen.
 
 ## Leer el resultado
 
@@ -72,4 +72,4 @@ El núcleo se prueba con archivos sintéticos, operaciones locales y copias aisl
 
 ## Créditos
 
-Adaptación y documentación de Alanmeza.ai sobre Claude Ads de agricidaniel y Enrique Rocha / Hainrixz / tododeia.com. Se conservan LICENSE y NOTICE. No es una integración oficial de Meta, OpenAI o Anthropic.
+Los avisos de procedencia y licencia se incluyen en la descarga.
