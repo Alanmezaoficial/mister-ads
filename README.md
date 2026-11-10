@@ -2,7 +2,7 @@
 
 Anuncios, registro comercial desde cero y reportes manuales de MUSE para **Codex y Claude Code**. Versión 1.0.0.
 
-Adaptación de Alanmeza.ai sobre Claude Ads de agricidaniel y Enrique Rocha / tododeia. Conserva los recursos del original fijados por commit; [autoría](ATTRIBUTION.md), [LICENSE](LICENSE) y [NOTICE](NOTICE).
+Ediciones y guías de Alanmeza.ai. Consulta [autoría](ATTRIBUTION.md), [LICENSE](LICENSE) y [NOTICE](NOTICE) para ver los avisos del código distribuido.
 
 ## Empezar
 
